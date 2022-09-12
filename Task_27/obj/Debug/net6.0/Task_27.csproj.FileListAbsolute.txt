@@ -1,0 +1,15 @@
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\Task_27.csproj.AssemblyReference.cache
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\Task_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfoInputs.cache
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\Task_27.AssemblyInfo.cs
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\Task_27.csproj.CoreCompileInputs.cache
+D:\GBC#\Home_work4\Task_27\bin\Debug\net6.0\Task_27.exe
+D:\GBC#\Home_work4\Task_27\bin\Debug\net6.0\Task_27.deps.json
+D:\GBC#\Home_work4\Task_27\bin\Debug\net6.0\Task_27.runtimeconfig.json
+D:\GBC#\Home_work4\Task_27\bin\Debug\net6.0\Task_27.dll
+D:\GBC#\Home_work4\Task_27\bin\Debug\net6.0\Task_27.pdb
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\Task_27.dll
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\refint\Task_27.dll
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\Task_27.pdb
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\Task_27.genruntimeconfig.cache
+D:\GBC#\Home_work4\Task_27\obj\Debug\net6.0\ref\Task_27.dll
